@@ -57,8 +57,11 @@ The DXF layers tell the vendor everything:
 |---|---|
 | 11 × M2.5 × 0.45 × 4 mm flat head screws (90°) | Plate to the skins' feet, driven from the back |
 | 3M VHB 4991, 2.30 mm, grey | Carcass to the inner faces of the skins. The grey reads as a shadow line. |
-| M2 screws and white nylon M2 washers (5 mm OD) | Plate to the card. The washers are not optional because the clearance holes are oversized on purpose. |
-| M2 male-female nylon standoffs | Setting the plate height at each card screw. The stock plate's dimples vary, so shim each hole to fit. |
+| M2 screws | Plate to the card's 13 mounting points |
+| [Ktehloy metric threaded insert kit](https://www.amazon.com/dp/B0CLKDPN65) | Standoffs at the mounting points that don't touch the PCB |
+| Nylon washers, or silicone washers cut to size | Spacers at the mounting points on the PCB itself |
+
+The stock plate was dimpled to a different depth at each screw, and a flat plate can't do that. So every mounting point needs its own spacer height. Set each one to fit before you tighten anything, or the screws will pull the plate into a bow. The clearance holes are 3.2 mm on purpose, so a washer under each screw head helps spread the load.
 
 The cover was designed around a 180° 12V-2x6 adapter about 30 × 25 × 12.6 mm and a cable bundle about 22 × 6 mm.
 
@@ -75,7 +78,7 @@ The cover was designed around a 180° 12V-2x6 adapter about 30 × 25 × 12.6 mm 
 1. Countersink the backplate's 11 cover holes from the **back**, by hand, after coating (90°). SendCutSend won't countersink stock this thin.
 2. Stand each skin on the plate with its feet inward. Drive the M2.5 flat heads from the back of the plate into the tapped feet.
 3. Put the VHB tape on the skins' inner faces, drop the carcass in between them onto the feet, and press.
-4. Fit the plate to the card with the M2 screws, nylon washers and standoffs.
+4. Fit the plate to the card with the M2 screws. Use threaded inserts as standoffs where the plate meets the cooler or brackets, and nylon or silicone washers where it meets the PCB.
 
 ## Rebuilding the files yourself
 
