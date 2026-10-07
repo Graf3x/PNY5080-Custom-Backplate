@@ -1,0 +1,11 @@
+# Pinned to the exact versions that built the v94 cut files that were ordered.
+# Newer versions will probably work, but run cad/gate_v94.py after any upgrade.
+shapely==2.1.2        # 2D geometry, clipping, clearances
+numpy==2.0.2
+matplotlib==3.11.1    # drawings and the 1:1 print templates
+Pillow==10.2.0        # wordmark rendering for the OCR check
+ezdxf==1.4.4          # reading and writing the DXF cut files
+scipy==1.18.0         # connected components for the OCR check
+trimesh==5.0.0        # 3D solids for the render export
+manifold3d==3.5.2     # boolean engine behind trimesh
+mapbox_earcut==2.0.0  # polygon tessellation

@@ -1,0 +1,40 @@
+PG147 COVER - ORDER SHEET v94  (SendCutSend)
+
+MATERIAL  5052-H32 aluminium, 0.080 in (2.0 mm), all five parts.
+FINISH    powder coat RAL 9003 signal white, matte or gloss - the
+          same on all five. Every part is now over the 1 in powder
+          minimum: skins 27.35 mm (1.077 in) wide in the flat.
+QUANTITY  1 of each: backplate_bit_plane_v94.dxf, backplate_interference_v94.dxf, carcass_v94.dxf, skin_far_v94.dxf, skin_show_v94.dxf
+
+LAYERS    CUT = laser.  BEND_UP_45 / BEND_DOWN_45 / BEND_DOWN_90 =
+          dashed fold lines, direction + angle in the name. UP =
+          toward the reader of the file. TAP = drill + tap, not laser.
+
+BACKPLATES  2, interchangeable. 11 x dia 2.90 clearance for the
+          cover screws, on CUT. No slots, no taps. The owner
+          countersinks these from the BACK by hand after coating
+          (90 deg, M2.5 x 0.45 flat head) - the vendor countersinks
+          0.125 in and thicker only.
+
+CARCASS   one piece, 10 folds, all 90 deg, all BEND_DOWN_90: nine
+          walls and the end cap, all away from the reader. NO feet.
+          16 roof vents on CUT. It stands on the skins' feet and is
+          bonded to the skins with 3M VHB 4991, 2.30 mm, grey.
+
+SKIN SHOW  199.63 x 27.35 mm flat. 4 x 45 deg folds (two each way) +
+          3 foot folds at 90 deg on BEND_DOWN_90, INWARD. 5 tapped
+          M2.5 x 0.45 on layer TAP. 6 relief slots 2.0 x 3.47 on the
+          bottom edge, one at each foot end - required.
+SKIN FAR   199.63 x 27.35 mm flat. 4 x 45 deg folds (two each way) +
+          4 foot folds at 90 deg on BEND_DOWN_90, INWARD. 6 tapped
+          M2.5 x 0.45 on layer TAP. 8 relief slots 2.0 x 3.47 on the
+          bottom edge, one at each foot end - required.
+
+ASSEMBLY  1. Countersink the plate's 11 holes from the back.
+          2. Stand each skin on the plate, feet inward, and drive
+             M2.5 x 0.45 x 4 flat heads from the back into the feet.
+          3. Apply 3M VHB 4991, 2.30 mm, grey to the skins' inner faces,
+             drop the carcass in between them onto the feet, press.
+          Stack: plate 2.00 + skin foot 2.00 (+coats) = carcass wall
+          bottom at 4.45; roof top at 16.95; cable clear height 10.65.
+HARDWARE  11 x M2.5 x 0.45 x 4 mm flat head (90 deg), stainless or black.

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Rebuilt by cad/export_v94.py; the GLB is kept for viewing
+out/render_v94/*.stl
+out/render_v94/render_data_v94.json
+
+# Fonts are not redistributable
+*.ttf
+*.otf

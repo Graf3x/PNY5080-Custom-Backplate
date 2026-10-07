@@ -1,0 +1,6 @@
+# Store cut files byte-for-byte as written: these are what gets uploaded to the vendor
+*.dxf -text
+*.pdf binary
+*.glb binary
+*.png binary
+*.jpg binary
