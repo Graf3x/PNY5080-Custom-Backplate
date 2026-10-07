@@ -176,6 +176,6 @@ I designed this over a summer working with Claude (chat, a scheduled task and Cl
 
 ## License
 
-**CC BY-NC 4.0.** You can use, change and share these files for non-commercial purposes as long as you give credit. Selling the files or parts made from them is not allowed. See `LICENSE` for the full terms. © 2026 Josh Lyons (Grafex).
+**CC BY-NC 4.0.** You can use, change and share these files for non-commercial purposes as long as you give credit. Selling the files or parts made from them is not allowed. See `LICENSE` for the full terms. © 2026 Data Disruptors LLC (Grafex).
 
 PNY, NVIDIA, GeForce, SendCutSend, 3M and VHB are trademarks of their respective owners. This project is not affiliated with or endorsed by any of them.
