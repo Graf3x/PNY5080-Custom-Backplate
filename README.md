@@ -2,7 +2,7 @@
 
 A white laser-cut backplate and a folded-metal cable cover for the **PNY GeForce RTX 5080 OC Triple Fan**. The 12V-2x6 power cable runs down a channel across the back of the card instead of sticking straight up out of the top.
 
-Everything is generated from Python. The cut files in this repo are the exact v94 files I ordered from SendCutSend, and the code rebuilds them to the micron.
+Everything is generated from Python, and that python was FULLY vibe coded, make sure you use the test-prints on paper before you commit to getting something cut.  The cut files in this repo are the exact v94 files I ordered from SendCutSend, and the code rebuilds them to the micron. I take no liability if things do not line up for you. 
 
 ![First test fit: every screw seated](docs/img/test-fit.jpg)
 
