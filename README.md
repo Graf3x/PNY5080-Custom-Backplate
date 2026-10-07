@@ -15,7 +15,7 @@ Everything is generated from Python, and that python was FULLY vibe coded, make 
 ## Read this before you cut anything
 
 - **It fits one card.** The 13 screw holes were measured from a PNY RTX 5080 OC Triple Fan (`VCG508016TFXPB1-O`, board **PG147 SKU 45**) using 300 dpi flatbed scans and calipers. Other 5080s, including other PNY models, are different boards. If yours isn't this exact card, assume the holes are wrong until you've proven otherwise.
-- **Print the paper templates first.** Lay them on your card. If every hole and edge doesn't line up on paper, it won't line up in metal. A sheet of printer paper costs about 1.4 cents. A plate costs about $68 and a week of shipping.
+- **Print the paper templates first.** Lay them on your card. If every hole and edge doesn't line up on paper, it won't line up in metal. A sheet of printer paper costs about 1.4 cents. A plate costs about $68 for just the backplate (not the channel) and a week of shipping.
 - **You are modifying a graphics card.** Taking the stock backplate off, re-padding and re-fitting are on you. No warranty of any kind comes with these files.
 
 ## What's in here
@@ -138,7 +138,6 @@ It will fail sometimes, and that's the point. Some real results:
 | `Graf3X`, `Grafex`, `PG147` | PASS on all three designs |
 | `Josh` | FAIL. Reads "JnSh": the little bridge that holds the middle of the "o" in place makes it look like an "n". |
 | `JOSH` | FAIL. Reads "J0SH": in Bahnschrift a capital O and a zero are nearly the same shape. |
-| `Joshua` | Stops the build: "a glyph will not open past 1.994 mm". Too many letters for a 90 mm mark leaves strokes too thin to cut. |
 
 When it fails, try one of these:
 
@@ -169,10 +168,6 @@ Colour and finish only matter on the order. Any powder SendCutSend offers will w
 ### Fitting a different card
 
 This is real work, not a setting. The hole positions are in `cad/hole_pattern.py`, measured from one plate. The outline, die window and connector notch are in `cad/backplate_v3.py` and `cad/die_window.py`, and the cable route is in `cad/cover_ribbon.py` and `cad/v94.py`. If you go down this road, measure your own stock backplate, change those numbers, and lean hard on the paper templates.
-
-## How this was made
-
-I designed this over a summer working with Claude (chat, a scheduled task and Claude Code). The code is full of the reasoning behind every number, including the mistakes. The docstrings at the top of `cad/v94.py`, `cad/hole_pattern.py` and `cad/gate_v94.py` are good places to start.
 
 ## License
 
