@@ -4,6 +4,8 @@ A white laser-cut backplate and a folded-metal cable cover for the **PNY GeForce
 
 Everything is generated from Python, and that python was FULLY vibe coded, make sure you use the test-prints on paper before you commit to getting something cut.  The cut files in this repo are the exact v94 files I ordered from SendCutSend, and the code rebuilds them to the micron. I take no liability if things do not line up for you. 
 
+**The build story:** [Building a white, cable-hidden RTX 5080 with Claude](https://graf3x.github.io/PNY5080-Custom-Backplate/). How it went, including everything that didn't work.
+
 ![First test fit: every screw seated](docs/img/test-fit.jpg)
 
 | ![v94 render](docs/img/v94_show.png) | ![v94 plan view](docs/img/v94_top.png) |
